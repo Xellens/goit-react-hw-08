@@ -1,0 +1,13 @@
+.header {
+  background-color: #8bfffb77;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.bar {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px 20px;
+
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
